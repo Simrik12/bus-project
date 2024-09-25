@@ -1,0 +1,4 @@
+This  is a simple C bus seat reservation system program.
+It allows users to reserve and cancel seat reservations, as well as check seat availability. 
+It supports up to 20 seats and ensures that users can only reserve valid, unoccupied seats. 
+It also provides a simple command-line interface to manage the reservations.
