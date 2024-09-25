@@ -1,0 +1,1 @@
+This program is a simple C language program. It is a bus seat reservation system. It allows users to reserve and cancel seat reservations, as well as check seat availability. It supports up to 20 seats and ensures that users can only reserve valid, unoccupied seats. It provides a simple command-line interface to manage the reservations. 
